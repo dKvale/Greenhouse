@@ -6,8 +6,6 @@
 ########################
 
 library(shiny)
-library(grid)
-library(scales)
 library(dplyr)
 library(rCharts)
 
