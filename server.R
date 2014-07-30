@@ -1,8 +1,6 @@
 # server.R for Green House Gasses in Minnesota: 1990-2010
 
 library(shiny)
-library(grid)
-library(scales)
 library(dplyr)
 library(rCharts)
 
