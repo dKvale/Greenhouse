@@ -12,4 +12,4 @@ Chart and slice greenhouse gas emissions from 1990-2010 by economic sector and c
     devtools::install_github('rCharts', 'ramnathv')  
 
     library(shiny)  
-    runGitHub("Greenhouse", "dKvale")
+    runGitHub("Shiny-GHGs", "dKvale")
